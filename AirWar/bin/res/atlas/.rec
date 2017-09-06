@@ -1,0 +1,29 @@
+D .
+D war
+R 4F008F46 background.png
+P 2BF0B93D enemy1_down1.png
+P B390F16A enemy1_down2.png
+P 31482119 enemy1_down3.png
+P 86E83C52 enemy1_down4.png
+P 31B0F330 enemy1_fly1.png
+P 95084A5B enemy2_down1.png
+P 93C8D1DC enemy2_down2.png
+P B468547B enemy2_down3.png
+P 72B4D4DD enemy2_down4.png
+P F17FEAE2 enemy2_fly1.png
+P 2EF80128 enemy2_hit.png
+P D7E26D83 enemy3_down1.png
+P 549C2429 enemy3_down2.png
+P 2E373DFB enemy3_down3.png
+P 2CDB0724 enemy3_down4.png
+P 612AD565 enemy3_down5.png
+P 3E137DEE enemy3_down6.png
+P 05AB04E5 enemy3_fly1.png
+P 857787A9 enemy3_fly2.png
+P A8782C5B enemy3_hit.png
+P A1876A5F hero_down1.png
+P 50922602 hero_down2.png
+P E0E80CA1 hero_down3.png
+P 9AC69A4E hero_down4.png
+P 75C8D8F4 hero_fly1.png
+P 44A2D9AC hero_fly2.png
